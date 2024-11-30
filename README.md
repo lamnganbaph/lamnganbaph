@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lamngznba
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analytics
-- 📫 How to reach me at ph.lamnganba@gmail.com
+- 📫 Reach me at ph.lamnganba@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am aRonaldo fan😁
 
